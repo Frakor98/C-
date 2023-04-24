@@ -4,7 +4,7 @@ Cieszę się, że tu jesteś! W tym repozytorium znajdziesz wiele interesującyc
 
 ## Projekty
 
-Chociaż nie mam jeszcze dużej wiedzy z języka C#, bardzo mnie ciekawi i jestem aktywnie w trakcie jego nauki. Staram się rozwijać swoje umiejętności poprzez tworzenie projektów, czytanie dokumentacji oraz korzystanie z różnych źródeł nauki. Mam nadzieję, że w miarę postępującego czasu, będę miał okazję podzielić się z Wami swoimi projektami napisanymi w języku C#.
+Chociaż znam dobrze podstawy języka C#, to wciąż uczę się bardziej skomplikowanych elementów i staram się pogłębiać swoją wiedzę. Pracuję z językiem C# na co dzień i cieszę się, że mogę rozwijać swoje umiejętności poprzez tworzenie projektów, czytanie dokumentacji oraz korzystanie z różnych źródeł nauki. Mam nadzieję, że w przyszłości będę miał okazję podzielić się z Wami moimi projektami napisanymi w języku C#.
 
 | Nazwa projektu | Opis | Link do repozytorium |
 | --- | --- | --- |
